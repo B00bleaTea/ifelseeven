@@ -1,6 +1,6 @@
 ## ifelseeven
 ```
-ifelseven is a projec to create an unnecesarraly large python file,
+ifelseven is a project to create an unnecesarraly large python file,
 if anyone wants, run the script called __main__.py using python
 it will create a learge file, but it will take a long ammount of time,
 ```
